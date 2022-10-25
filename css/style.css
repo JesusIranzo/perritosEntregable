@@ -4,3 +4,7 @@
 .navbar-brand img{
     width: 10vh;
 }
+.ancho-carousel{
+    width: 50vw;
+    margin: 0 auto;
+}
