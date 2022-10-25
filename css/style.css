@@ -48,3 +48,20 @@
     background-color: green;
     transition: .5s;
 }
+.color-boton{
+    background-color: rgb(209, 16, 16);
+    color: white;
+}
+.btn:hover {
+    color: black;
+    background-color: rgb(185, 184, 184);
+    border-color: var(--bs-btn-hover-border-color);
+}
+.row{
+    justify-content: space-evenly;
+
+}
+
+.card{
+        background-color: rgb(185, 184, 184);
+}
