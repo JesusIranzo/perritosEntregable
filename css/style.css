@@ -5,7 +5,7 @@
     font-family: 'Alfa Slab One';
 }
 .navbar-brand img {
-    width: 5vw;
+    width: 10vw;
     border-radius: 5vw;
 }
 .ancho-carousel {
@@ -25,14 +25,16 @@
 .ancho-carousel img{
     width:50vw;
 }
-.container {
+.container1 {
+    margin: 5vw;
     font-family: 'Alfa Slab One';
 }
 .footer img {
-    width: 3vw;
+    width: 5vw;
 }
 .footer {
     background-color: rgba(0, 255, 0, 0.247);
+    margin-top: 5vh;
 }
 .copy {
     background-color: rgb(0, 255, 21);
