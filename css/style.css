@@ -44,22 +44,14 @@
 }
 .copy a {
     text-decoration: none;
-    background-color: white;
-    border-radius: 3vw;
-    border: 2px solid rgba(0, 255, 0, 0.247);
-}
-.copy a:hover {
-    color: white;
-    background-color: green;
-    transition: .5s;
 }
 .color-boton{
-    background-color: rgb(209, 16, 16);
-    color: white;
+    background-color:#64F58D;
+    color:white;
 }
 .btn:hover {
     color: black;
-    background-color: rgb(185, 184, 184);
+    background-color: #337357;
     border-color: var(--bs-btn-hover-border-color);
 }
 .row{
@@ -68,7 +60,10 @@
 }
 
 .card{
-        background-color: rgb(185, 184, 184);
+    font-family: 'Times New Roman';
+    background-image: linear-gradient(to top, #337357, #64F58D);
+    padding: 2vw;
+    margin: 2vw;
 }
 
 .cartas{
