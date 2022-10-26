@@ -26,9 +26,6 @@
     margin: 5vw;
     font-family: 'Alfa Slab One';
 }
-.footer img {
-    width: 5vw;
-}
 .footer {
     background-color: rgba(0, 255, 0, 0.247);
     margin-top: 5vh;
@@ -72,4 +69,9 @@
 
 .card{
         background-color: rgb(185, 184, 184);
+}
+
+.cartas{
+    margin-top: 5vw;
+    margin-bottom: 5vh;
 }
